@@ -1,0 +1,35 @@
+1. 1571
+2. 1710 cek on entity, people, epmloyee, group - staging only
+3. 1648
+
+
+
+
+Participant = Entity
+Agronomist = People
+
+
+warehouse tidak menampilkan map
+
+Data Access Setting not Set for Data Owner
+
+
+
+1. Corrective action tidak otomatis menampilkan action plan pada menu atau entity
+2. Buyers Connection Error
+3. Photo on additional photo corrupted
+
+4. people fikter by search by dont show any list
+5. People Relation to showing empty list on People ( Child )
+6. Add Action Plan on entity dont automaticly added to action plan menu
+
+7. Agronomist dapat darimana karna Interaction masih belum bisa menambahkan agronomist
+8. Agronomist di interaction(Entity) tidak bisa diisi
+9. agronomist di entitiy action plan tidak bisa ditambahkan
+9. Coreective action belum menambahkan action plan dalam entity tapi sudah menambahkan action plan menu
+
+
+
+
+
+ 
